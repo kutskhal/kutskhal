@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kutskhal
+- 👀 I’m interested in python and java programming
+- 🌱 I’m currently learning python programming
+- 💞️ I’m looking to collaborate on python/django
+- 📫 How to reach me @ jobkuts@gmail.com
